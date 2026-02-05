@@ -1,0 +1,3 @@
+interface: "any"
+packet_filter: "tcp port 443 or tcp port 9001"
+capture_timeout: 20
